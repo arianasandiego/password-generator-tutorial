@@ -14,3 +14,10 @@ Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
 - Generate Button
 - Strength Container
   - Strength Meter
+
+2. CSS
+
+- Basic Reset
+- Password Container
+- Options
+- Responsive Design
