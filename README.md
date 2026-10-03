@@ -21,3 +21,14 @@ Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
 - Password Container
 - Options
 - Responsive Design
+
+3. JS
+
+- DOM Elements
+- Variables
+- Event Listeners
+- Functions
+  - Make Password
+  - Update Strength Meter
+  - Create Random Password
+  - Show Copy Success
